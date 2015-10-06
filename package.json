@@ -10,6 +10,7 @@
   "license": "ISC",
   "jspm": {
     "dependencies": {
+      "fs": "github:jspm/nodelibs-fs@^0.1.2",
       "react": "npm:react@0.14.0-rc1",
       "react-dom": "npm:react-dom@0.14.0-rc1"
     },
@@ -20,6 +21,7 @@
     }
   },
   "dependencies": {
+    "fs": "0.0.2",
     "jspm": "^0.16.11"
   }
 }

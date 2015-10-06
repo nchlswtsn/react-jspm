@@ -17,6 +17,7 @@ System.config({
     "babel": "npm:babel-core@5.8.25",
     "babel-runtime": "npm:babel-runtime@5.8.25",
     "core-js": "npm:core-js@1.2.1",
+    "fs": "github:jspm/nodelibs-fs@0.1.2",
     "react": "npm:react@0.14.0-rc1",
     "react-dom": "npm:react-dom@0.14.0-rc1",
     "github:jspm/nodelibs-assert@0.1.0": {
