@@ -9,6 +9,9 @@
   "author": "Charles Watson <charlesnwatson@gmail.com> (https://www.npmjs.com/~watsoncn)",
   "license": "ISC",
   "jspm": {
+    "dependencies": {
+      "react": "npm:react@0.14.0-rc1"
+    },
     "devDependencies": {
       "babel": "npm:babel-core@^5.8.24",
       "babel-runtime": "npm:babel-runtime@^5.8.24",
